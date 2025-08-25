@@ -1,6 +1,6 @@
 # Effekseer Effects Directory
 
-วางไฟล์ .efkefc ของคุณในโฟลเดอร์นี้
+วางไฟล์ .efkefc 
 
 ไฟล์ที่ต้องการ:
 - sword_effect.efkefc
@@ -17,6 +17,4 @@
 - general_crit.efkefc
 - general_enchanted.efkefc
 
-หมายเหตุ: ไฟล์ .efkefc ต้องสร้างจากโปรแกรม Effekseer และเข้ากันได้กับ Effekseer 1.70e
-
-ลบไฟล์นี้หลังจากเพิ่มไฟล์ .efkefc ของคุณแล้ว
+หมายเหตุ: ไฟล์ .efkefc ต้องสร้างจากโปรแกรม Effekseer
